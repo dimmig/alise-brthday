@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/alise-birthday/static/css/main.347f6598.css",
-    "main.js": "/alise-birthday/static/js/main.a52a941f.js",
-    "static/js/787.fb15dc9e.chunk.js": "/alise-birthday/static/js/787.fb15dc9e.chunk.js",
-    "static/media/dream.png": "/alise-birthday/static/media/dream.65215110c638ecfd556b.png",
-    "static/media/bg.avif": "/alise-birthday/static/media/bg.06e4dd3e3c3cc7bfc4df.avif",
-    "index.html": "/alise-birthday/index.html",
-    "main.347f6598.css.map": "/alise-birthday/static/css/main.347f6598.css.map",
-    "main.a52a941f.js.map": "/alise-birthday/static/js/main.a52a941f.js.map",
-    "787.fb15dc9e.chunk.js.map": "/alise-birthday/static/js/787.fb15dc9e.chunk.js.map"
+    "main.css": "/alise-brthday/static/css/main.cb355822.css",
+    "main.js": "/alise-brthday/static/js/main.6c13baa6.js",
+    "static/js/787.fb15dc9e.chunk.js": "/alise-brthday/static/js/787.fb15dc9e.chunk.js",
+    "static/media/dream.png": "/alise-brthday/static/media/dream.65215110c638ecfd556b.png",
+    "static/media/bg.avif": "/alise-brthday/static/media/bg.06e4dd3e3c3cc7bfc4df.avif",
+    "index.html": "/alise-brthday/index.html",
+    "main.cb355822.css.map": "/alise-brthday/static/css/main.cb355822.css.map",
+    "main.6c13baa6.js.map": "/alise-brthday/static/js/main.6c13baa6.js.map",
+    "787.fb15dc9e.chunk.js.map": "/alise-brthday/static/js/787.fb15dc9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.347f6598.css",
-    "static/js/main.a52a941f.js"
+    "static/css/main.cb355822.css",
+    "static/js/main.6c13baa6.js"
   ]
 }
